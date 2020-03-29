@@ -1,0 +1,80 @@
+{
+  "threatAnalysis": {
+    "symbology": {
+      "mandatoryOutlineColor": {
+        "color": "#d10e40",
+        "transparency": 0,
+        "type": "esriSLSSolid"
+      },
+      "mandatoryFillColor": {
+        "color": "#d10e40",
+        "transparency": 0.88,
+        "type": "esriSFSSolid"
+      },
+      "safeOutlineColor": {
+        "color": "#ffffff",
+        "transparency": 0,
+        "type": "esriSLSNull"
+      },
+      "safeFillColor": {
+        "color": "#ffd700",
+        "transparency": 0.78,
+        "type": "esriSFSSolid"
+      }
+    },
+    "operationalLayer": {
+      "name": ""
+    },
+    "unit": "feet"
+  },
+  "threatTypes": [
+    {
+      "Threat": "Pipe Bomb",
+      "Bldg_Dist": 70,
+      "Outdoor_Dist": 1200,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "Suicide Bomb",
+      "Bldg_Dist": 110,
+      "Outdoor_Dist": 1700,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "Briefcase",
+      "Bldg_Dist": 150,
+      "Outdoor_Dist": 1850,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "Car",
+      "Bldg_Dist": 320,
+      "Outdoor_Dist": 1900,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "SUV/VAN",
+      "Bldg_Dist": 400,
+      "Outdoor_Dist": 2400,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "Small Delivery Truck",
+      "Bldg_Dist": 640,
+      "Outdoor_Dist": 3800,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "Container/Water Truck",
+      "Bldg_Dist": 860,
+      "Outdoor_Dist": 5100,
+      "Unit": "Feet"
+    },
+    {
+      "Threat": "Semi-Trailer",
+      "Bldg_Dist": 1570,
+      "Outdoor_Dist": 9300,
+      "Unit": "Feet"
+    }
+  ]
+}
